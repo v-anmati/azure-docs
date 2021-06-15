@@ -165,6 +165,8 @@ There are certain sets of claims that define how and when they're used in tokens
 | wids |
 | win_ver |
 
+## Request an update to the mentioned page to somehow include the "name" claim as a restricted claim that cannot be excluded. Because currently there is no reference to such claim and there are references to others related as basic claims, it creates the sense that it can be manipulated/excluded.## 
+
 ### Table 2: SAML restricted claim set
 
 | Claim type (URI) |
